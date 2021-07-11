@@ -10,15 +10,21 @@ s(t) = A1 cos(2 π fc t) + A2 sen(2 π fc t)
 donde
 
 ○ A1 = -3    si    b1 b2 = 0 0
+
 ○ A1 = -1    si    b1 b2 = 0 1
+
 ○ A1 =  1    si    b1 b2 = 1 1
+
 ○ A1 =  3    si    b1 b2 = 1 0
 
 y
 
 ○ A2 =  3    si    b3 b4 = 0 0
+
 ○ A2 =  1    si    b3 b4 = 0 1
+
 ○ A2 = -1    si    b3 b4 = 1 1
+
 ○ A2 = -3    si    b3 b4 = 1 0
 
 • Para desarrollar la simulación de comunicaciones usando la modulación 16-QAM, se siguieron los siguientes pasos:
