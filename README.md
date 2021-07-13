@@ -1,4 +1,4 @@
-# Proyecto4
+# Proyecto 4
 Proyecto 4: Simulación de modulación 16-QAM para envío de imagenes por un canal ruidoso.
 
 La modulación de amplitud en cuadratura (**QAM**, *Quadrature Amplitude Modulation*) de 16 símbolos (16-QAM) es un tipo de modulación IQ que utiliza más posibles amplitudes de dos ondas portadoras seno y coseno para representar 16 símbolos distintos, pues puede portar y transmitir hasta 4 bits por periodo ($2^4 = 16$).
